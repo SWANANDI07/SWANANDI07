@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swanandi Ambekar</h1>
 <h3 align="center">A passionate about AI/ML and Problem solving:)</h3>
-<img align ="right" alt= "Coding" width="400" src= "https://in.images.search.yahoo.com/images/view;_ylt=Awrx.whSIuBmWYAnZQe9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzYwYjNjN2I2OTZjOWM5ZjlkYzIwZDBlYTE4MTZkOGIyBGdwb3MDMTEEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bimages%2Bfor%2Bcoding%26norw%3D1%26ei%3DUTF-8%26type%3DE210IN885G0%26fr%3Dmcafee%26fr2%3Dsp-qrw-corr-top%26tab%3Dorganic%26ri%3D11&w=640&h=358&imgurl=media.tenor.com%2FGVk4jB2u_i8AAAAd%2Fcoding.gif&rurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-25731151&size=851.5KB&p=animated+images+for+coding&oid=60b3c7b696c9c9f9dc20d0ea1816d8b2&fr2=sp-qrw-corr-top&fr=mcafee&tt=Coding+GIF+-+Coding+-+Discover+%26+Share+GIFs&b=0&ni=250&no=11&ts=&tab=organic&norw=1&sigr=chsh_2VZFvg3&sigb=GHhrS8NUZm9g&sigi=rHjcA0JYRiBX&sigt=dzuvlOwy_q0G&.crumb=QQBTUvj5QCo&fr=mcafee&fr2=sp-qrw-corr-top&norw=1&type=E210IN885G0">
+<img align ="right" alt= "Coding" width="400" src= "https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swanandi07" alt="swanandi07" /></a> </p>
 
@@ -28,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swanandi07&show_icons=true&locale=en&layout=compact" alt="swanandi07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swanandi07&show_icons=true&locale=en" alt="swanandi07" /></p>
+
