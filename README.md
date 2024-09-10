@@ -2,7 +2,6 @@
 <h3 align="center">A passionate about AI/ML and Problem solving:)</h3>
 <img align ="right" alt= "Coding" width="400" src= "https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swanandi07" alt="swanandi07" /></a> </p>
 
 - 🌱 I’m currently learning **Deep learning, Snowflake, AWS**
 
